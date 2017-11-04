@@ -1,7 +1,22 @@
 # Calculator android app
 
-## It is a basic android calculator app for beginner practice
+## Features 
 
-**<a href="http://www.androidauthority.com/build-a-calculator-app-721910/"> This site may help you to build your own calculator apps </a>**
+* Basic Calcuator a app.
+* With `NEG` Button.
+* Different layout for Portrait and landscape mood.
 
-### Happy codding :)
+## Bugs
+
+* Division and Multiplication  not working if Frist input is `0`
+
+## Future work
+* Percentage calculate
+* π Button
+* Trigonometry Calculate 
+
+## Tutorial
+* [Blog](http://www.androidauthority.com/build-a-calculator-app-721910)
+
+
+### Happy Codding :)
